@@ -1,5 +1,5 @@
 # Easy_Project_Template
 
-This is a simple project template that aims to help new programmers avoid complicated setups when it comes to making static website solutions.
+This simple project template is designed to simplify the setup process for new programmers creating static websites.
 
-Fork the repository and get started :]
+Just fork the repository and start building! 😊
